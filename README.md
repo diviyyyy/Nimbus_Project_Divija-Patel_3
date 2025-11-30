@@ -82,5 +82,5 @@ If you find an issue or have suggestions for improvement, please open an issue o
 
 ## License
 
-This project is for educational purposes only.
+This project is for educational purposes only. 
 
